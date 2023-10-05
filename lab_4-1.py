@@ -22,3 +22,5 @@ full_name = first_name + " " + last_name
 
 #Print the user's full name.
 print("User's full name:", full_name)
+
+#I found no issues with the code, At first, when printing the full name, the name was combined but I fixed that by simply adding a space.  
